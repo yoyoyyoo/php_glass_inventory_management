@@ -1,0 +1,63 @@
+body {
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(232, 251, 154, 0.59);
+    font-style: italic;
+}
+
+h1 {
+    font-size: x-large;
+    color: rgb(62, 249, 149);
+}
+
+.DataPair {
+    color: rgb(62, 249, 149);
+    font-size: 1.2em;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    margin-left: 0.75em;
+}
+
+input {
+    color: rgb(62, 249, 149);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+    background-color: white;
+}
+
+textarea {
+    color: rgb(62, 249, 149);
+    background-color: white;
+}
+
+
+footer {
+    margin-top: 4em;
+    color: rgb(62, 249, 149);
+}
+
+button {
+    margin-top: 2em;
+    display: block;
+    border: 0;
+    background-color: white;
+}
+
+table {
+    background-color: rgba(251, 255, 250, 0.078);
+    border: 0.01em solid rgb(24, 25, 26);
+    border-collapse: collapse;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+th,
+td {
+    border: 0.1em solid rgb(24, 25, 26);
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(62, 249, 149);
+    padding: 0.7em;
+
+}
